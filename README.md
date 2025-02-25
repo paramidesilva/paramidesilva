@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramidesilva&label=Profile%20views&color=0e75b6&style=flat" alt="paramidesilva" /> </p>
 
 
-- 🌱 I’m currently learning in **Westminster University**
+- 🌱 I’m currently learning Computer Science at University of westminster
 
 - 💬 Ask me about **coding**
 
